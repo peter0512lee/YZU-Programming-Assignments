@@ -1,0 +1,36 @@
+[submodule "YZU-Machine-Learning"]
+	path = YZU-Machine-Learning
+	url = https://github.com/peter0512lee/YZU-Machine-Learning.git
+[submodule "YZU-Mobile-Application-Programming"]
+	path = YZU-Mobile-Application-Programming
+	url = https://github.com/peter0512lee/YZU-Mobile-Application-Programming.git
+[submodule "YZU-Programming-Lab-II"]
+	path = YZU-Programming-Lab-II
+	url = https://github.com/peter0512lee/YZU-Programming-Lab-II.git
+[submodule "YZU-Programming-Lab-I"]
+	path = YZU-Programming-Lab-I
+	url = https://github.com/peter0512lee/YZU-Programming-Lab-I.git
+[submodule "YZU-Computer-Programming-II"]
+	path = YZU-Computer-Programming-II
+	url = https://github.com/peter0512lee/YZU-Computer-Programming-II.git
+[submodule "YZU-Computer-Programming-I"]
+	path = YZU-Computer-Programming-I
+	url = https://github.com/peter0512lee/YZU-Computer-Programming-I.git
+[submodule "YZU-Digital-System-Design"]
+	path = YZU-Digital-System-Design
+	url = https://github.com/peter0512lee/YZU-Digital-System-Design.git
+[submodule "YZU-Data-Structures"]
+	path = YZU-Data-Structures
+	url = https://github.com/peter0512lee/YZU-Data-Structures.git
+[submodule "YZU-Assembly-Language-and-Computer-Organization"]
+	path = YZU-Assembly-Language-and-Computer-Organization
+	url = https://github.com/peter0512lee/YZU-Assembly-Language-and-Computer-Organization.git
+[submodule "YZU-Introduction-to-Operating-System"]
+	path = YZU-Introduction-to-Operating-System
+	url = https://github.com/peter0512lee/YZU-Introduction-to-Operating-System.git
+[submodule "YZU-Introduction-to-Computer-Graphics"]
+	path = YZU-Introduction-to-Computer-Graphics
+	url = https://github.com/peter0512lee/YZU-Introduction-to-Computer-Graphics.git
+[submodule "YZU-Introduction-to-Algorithms"]
+	path = YZU-Introduction-to-Algorithms
+	url = https://github.com/peter0512lee/YZU-Introduction-to-Algorithms.git
